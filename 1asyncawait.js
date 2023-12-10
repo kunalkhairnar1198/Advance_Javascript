@@ -50,6 +50,7 @@ console.log('person5: show ticket')
 
 
 
+//simple promise functions
 
 // const promiseWifeBringingTicket = new Promise((resolve, reject) => {
 //     setTimeout(() => {
